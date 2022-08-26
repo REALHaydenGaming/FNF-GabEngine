@@ -1,6 +1,6 @@
 package nimu;
 
-class DumbKidLol extends RealDumbass
+class DumbKidLol extends MusicBeatState
 {
     var bitches:Int = 1;
     var family:Bool = true;
@@ -22,7 +22,7 @@ class DumbKidLol extends RealDumbass
             STUPID = true;
             ratio++;
             hasBrain = false;
+            trace(kys);
         }
     }
 }
-//you know i had to do it to em
